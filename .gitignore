@@ -2,3 +2,4 @@
 /spec/fixtures/manifests/
 /pkg/
 .project
+.vagrant
